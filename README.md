@@ -79,7 +79,7 @@
 ## &nbsp; 💻 &nbsp; Developer Console & Dossier
 
 <div align="center">
-  <img src="./assets/terminal-card.svg" width="100%" alt="Terminal Card"/>
+  <img src="./assets/terminal-card.png" width="100%" alt="Developer Terminal Console" style="border-radius: 12px;"/>
 </div>
 
 <br/>
@@ -429,13 +429,6 @@ I combine deep technical execution with battle-tested project leadership:
 
 <a href="https://github.com/Adityadrasal007">
   <img src="https://streak-stats.demolab.com?user=Adityadrasal007&theme=transparent&hide_border=true&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=ffffff&sideNums=ffffff&currStreakNum=00F2FE&dates=888888" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- Real-Time Activity Grid -->
-<a href="https://github.com/Adityadrasal007">
-  <img src="./assets/contribution-snake.svg" width="98%" alt="Contribution Grid Snake Telemetry" />
 </a>
 
 <br/><br/>
