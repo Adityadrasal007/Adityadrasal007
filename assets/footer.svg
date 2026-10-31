@@ -1,22 +1,26 @@
 <svg width="1200" height="120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0a"/>
-      <stop offset="100%" style="stop-color:#111111"/>
+      <stop offset="0%" style="stop-color:#080808"/>
+      <stop offset="100%" style="stop-color:#0f0f0f"/>
     </linearGradient>
     <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#3B82F6;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:0"/>
+      <stop offset="0%" style="stop-color:#FF5722;stop-opacity:0"/>
+      <stop offset="35%" style="stop-color:#FF5722;stop-opacity:0.7">
+        <animate attributeName="stop-color" values="#FF5722;#8B5CF6;#00F2FE;#FF5722" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="65%" style="stop-color:#8B5CF6;stop-opacity:0.7">
+        <animate attributeName="stop-color" values="#8B5CF6;#00F2FE;#FF5722;#8B5CF6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00F2FE;stop-opacity:0"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="120" fill="url(#footer-bg)"/>
-  <rect x="0" y="0" width="1200" height="1" fill="url(#footer-line)"/>
-  <text x="600" y="55" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#555" letter-spacing="0.5">
-    Designed with precision. Built with purpose.
+  <rect x="0" y="0" width="1200" height="1.5" fill="url(#footer-line)"/>
+  <text x="600" y="52" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#aaaaaa" letter-spacing="1">
+    ENGINEERED WITH REAL-WORLD IMPACT · ADITYA RASAL
   </text>
-  <text x="600" y="80" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#444" letter-spacing="0.3">
-    © 2026 Aditya Rasal
+  <text x="600" y="78" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#666666" letter-spacing="0.5">
+    Pune, India · Computer Vision &amp; Edge Machine Learning · 2026
   </text>
 </svg>
-
