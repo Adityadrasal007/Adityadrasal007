@@ -45,25 +45,25 @@
 
 <table width="100%">
   <tr align="center">
-    <td width="25%" style="padding: 14px;">
+    <td width="25%" style="padding: 18px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 10px;">
       <h2 style="margin: 0; color: #00F2FE;">🚀 0 → 1</h2>
-      <p style="margin: 4px 0 0 0; color: #D1D5DB; font-size: 13px;"><b>AI Product Builder</b></p>
-      <sub style="color: #6B7280;">Datasets · Models · Production UIs &amp; Edge Platforms</sub>
+      <p style="margin: 6px 0 0 0; color: #F3F4F6; font-size: 13px;"><b>AI Product Builder</b></p>
+      <sub style="color: #9CA3AF;">Datasets · Models · Edge Platforms</sub>
     </td>
-    <td width="25%" style="padding: 14px;">
+    <td width="25%" style="padding: 18px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 10px;">
       <h2 style="margin: 0; color: #FF5722;">👥 150+</h2>
-      <p style="margin: 4px 0 0 0; color: #D1D5DB; font-size: 13px;"><b>Workforce Directed</b></p>
-      <sub style="color: #6B7280;">Student Council Cultural President</sub>
+      <p style="margin: 6px 0 0 0; color: #F3F4F6; font-size: 13px;"><b>Workforce Directed</b></p>
+      <sub style="color: #9CA3AF;">Student Council Cultural President</sub>
     </td>
-    <td width="25%" style="padding: 14px;">
+    <td width="25%" style="padding: 18px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #8B5CF6; border-radius: 10px;">
       <h2 style="margin: 0; color: #8B5CF6;">🎯 9.1 / 10</h2>
-      <p style="margin: 4px 0 0 0; color: #D1D5DB; font-size: 13px;"><b>University CGPA</b></p>
-      <sub style="color: #6B7280;">B.Tech CSE&amp;T · PCU Graduating '27</sub>
+      <p style="margin: 6px 0 0 0; color: #F3F4F6; font-size: 13px;"><b>University CGPA</b></p>
+      <sub style="color: #9CA3AF;">B.Tech CSE&amp;T · PCU Graduating '27</sub>
     </td>
-    <td width="25%" style="padding: 14px;">
+    <td width="25%" style="padding: 18px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #10B981; border-radius: 10px;">
       <h2 style="margin: 0; color: #10B981;">🎪 6,000+</h2>
-      <p style="margin: 4px 0 0 0; color: #D1D5DB; font-size: 13px;"><b>Festival Scale Managed</b></p>
-      <sub style="color: #6B7280;">Anantam Cultural Festival (3 Editions)</sub>
+      <p style="margin: 6px 0 0 0; color: #F3F4F6; font-size: 13px;"><b>Festival Scale Managed</b></p>
+      <sub style="color: #9CA3AF;">Anantam Festival (3 Editions)</sub>
     </td>
   </tr>
 </table>
@@ -80,24 +80,24 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="24%" align="center" valign="middle">
+<td width="26%" align="center" valign="middle" style="padding: 24px 16px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 12px 0 0 12px;">
 
 <img src="./assets/square_blazer.png" width="165" style="border-radius: 16px; border: 2px solid #FF5722;" alt="Aditya Rasal"/>
 <br/><br/>
-<b style="font-size: 16px;">Aditya Rasal</b>
+<b style="font-size: 16px; color: #FFFFFF;">Aditya Rasal</b>
 <br/>
-<sub>AI Engineer &amp; Technical PM</sub>
+<sub style="color: #9CA3AF;">AI Engineer &amp; Technical PM</sub>
 <br/>
-<sub>📍 Pune, Maharashtra, India</sub>
+<sub style="color: #9CA3AF;">📍 Pune, Maharashtra, India</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/STATUS-🟢_ACTIVE_BUILDING-10B981?style=flat-square" alt="Status"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/PCU_'27-9.1_CGPA-8B5CF6?style=flat-square" alt="CGPA"/>
 
 </td>
-<td width="76%" valign="top">
+<td width="74%" valign="top" style="padding: 24px; background-color: #0c1017; border: 1px solid #1f2937; border-left: none; border-top: 3px solid #FF5722; border-radius: 0 12px 12px 0;">
 
 ### ⚡ The Hybrid Edge: Engineering Intelligence &amp; Scaling Execution
 
@@ -163,17 +163,17 @@
 <!-- ─── RECRUITER VALUE PILLARS ─── -->
 <table width="100%">
   <tr align="center">
-    <td width="33%" style="padding: 10px;">
-      <b>🛠️ Technical Depth</b><br/>
-      <sub>Zero-cloud edge inference, custom YOLO pipelines &amp; CUDA optimization</sub>
+    <td width="33%" style="padding: 14px 10px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #FF5722; border-radius: 8px;">
+      <b style="color: #FFFFFF;">🛠️ Technical Depth</b><br/>
+      <sub style="color: #9CA3AF;">Zero-cloud edge inference, custom YOLO pipelines &amp; CUDA optimization</sub>
     </td>
-    <td width="33%" style="padding: 10px;">
-      <b>🤝 Cross-Functional Bridge</b><br/>
-      <sub>Translates business KPIs to engineering specs &amp; manages executive stakeholders</sub>
+    <td width="33%" style="padding: 14px 10px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #00F2FE; border-radius: 8px;">
+      <b style="color: #FFFFFF;">🤝 Cross-Functional Bridge</b><br/>
+      <sub style="color: #9CA3AF;">Translates business KPIs to engineering specs &amp; manages executive stakeholders</sub>
     </td>
-    <td width="33%" style="padding: 10px;">
-      <b>📈 Proven Delivery Track Record</b><br/>
-      <sub>150+ people led, 6,000+ scale managed, 100% on-time &amp; under budget</sub>
+    <td width="33%" style="padding: 14px 10px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #8B5CF6; border-radius: 8px;">
+      <b style="color: #FFFFFF;">📈 Proven Delivery Track Record</b><br/>
+      <sub style="color: #9CA3AF;">150+ people led, 6,000+ scale managed, 100% on-time &amp; under budget</sub>
     </td>
   </tr>
 </table>
@@ -190,7 +190,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 14px;">
 
 <!-- Project 1 Card -->
 <img src="./assets/project-vision-flow.png" width="100%" alt="Vision Flow Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
@@ -238,7 +238,7 @@
 </details>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #8B5CF6; border-radius: 14px;">
 
 <!-- Project 2 Card -->
 <img src="./assets/project-vision-studio.png" width="100%" alt="Vision Studio Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
@@ -300,17 +300,21 @@
 <div align="center">
 
 <!-- Rich Skill Icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,postgres,sqlite,pytorch,opencv,fastapi,django,flask,react,vue,git,github,linux,docker&perline=8&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td style="padding: 16px; background-color: #0c1017; border: 1px solid #1f2937; border-radius: 12px;" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,js,postgres,sqlite,pytorch,opencv,fastapi,django,flask,react,vue,git,github,linux,docker&perline=8&theme=dark" alt="Tech Stack Icons" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 14px;">
 
 #### 👁️ Computer Vision & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch_(CUDA)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -330,7 +334,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-222?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 14px;">
 
 #### ⚡ Full-Stack & Systems Engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -366,14 +370,14 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 14px;">
 
 ### 🔭 &nbsp; Active Engineering Focus
 - **TensorRT &amp; INT8 Quantization:** Benchmarking post-training quantization on YOLO11 architectures for sub-30ms inference on embedded edge accelerators.
 - **Multi-Camera Synchronous Pipeline:** Extending asynchronous frame ingestion to handle concurrent 4K RTSP streams with zero frame tearing.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 14px;">
 
 ### 🧪 &nbsp; What's in the Lab
 - **Vision Studio v2:** Prototyping zero-shot prompt-based bounding detection integrating SAM 2 and open-vocabulary detection backends.
@@ -382,7 +386,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" style="padding: 16px 22px; background-color: #080c14; border: 1px solid #1f2937; border-top: none; border-radius: 0 0 14px 14px;">
 
 **🎯 Current Target:** Seeking high-impact **AI Engineer / Computer Vision Specialist** roles and research collaborations for 2026/2027.
 
@@ -556,17 +560,23 @@
 
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Google-Project_Management_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM"/>
-</a>
-&nbsp;&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/IBM-Machine_Learning_Specialist-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM ML"/>
-</a>
-&nbsp;&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Atlassian-Agile_with_Jira-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Jira"/>
-</a>
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #4285F4; border-radius: 12px;">
+      <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
+        <img src="https://img.shields.io/badge/Google-Project_Management_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
+        <img src="https://img.shields.io/badge/IBM-Machine_Learning_Specialist-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM ML"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
+        <img src="https://img.shields.io/badge/Atlassian-Agile_with_Jira-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Jira"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
