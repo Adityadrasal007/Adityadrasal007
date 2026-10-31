@@ -1,0 +1,58 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Top-left Circle Gradient (Orange -> Coral Red) -->
+    <radialGradient id="dark-grad-top" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FF9E64" />
+      <stop offset="50%" stop-color="#FF5722" />
+      <stop offset="100%" stop-color="#E64A19" />
+    </radialGradient>
+
+    <!-- Right Circle Gradient (Golden Yellow -> Amber Orange) -->
+    <radialGradient id="dark-grad-right" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFD54F" />
+      <stop offset="50%" stop-color="#FFA000" />
+      <stop offset="100%" stop-color="#FF6F00" />
+    </radialGradient>
+
+    <!-- Bottom-left Circle Gradient (Crimson -> Rose Red) -->
+    <radialGradient id="dark-grad-bottom" cx="45%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#FF5252" />
+      <stop offset="60%" stop-color="#E91E63" />
+      <stop offset="100%" stop-color="#C2185B" />
+    </radialGradient>
+
+    <filter id="subtle-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Pitch Black Background (Matches Vision Studio exactly) -->
+  <rect width="1024" height="1024" rx="32" fill="#000000" />
+
+  <!-- Circle Cluster with Screen/Additive Blending -->
+  <g filter="url(#subtle-glow)">
+    <!-- Top-Left Circle -->
+    <circle cx="445" cy="335" r="148" fill="url(#dark-grad-top)" fill-opacity="0.88" />
+
+    <!-- Bottom-Left Circle -->
+    <circle cx="455" cy="470" r="130" fill="url(#dark-grad-bottom)" fill-opacity="0.85" />
+
+    <!-- Right Circle -->
+    <circle cx="585" cy="400" r="152" fill="url(#dark-grad-right)" fill-opacity="0.88" />
+  </g>
+
+  <!-- Wordmark "VISION FLOW" in Pure Crisp White -->
+  <text x="512" y="730" text-anchor="middle" font-family="system-ui, -apple-system, 'SF Pro Display', 'Segoe UI', sans-serif">
+    <tspan font-size="76" font-weight="500" fill="#FFFFFF" letter-spacing="3">VISION </tspan>
+    <tspan font-size="76" font-weight="800" fill="#FFFFFF" letter-spacing="3">FLOW</tspan>
+  </text>
+
+  <!-- Tagline "PEOPLE. IDEAS. PROGRESS." -->
+  <text x="512" y="795" text-anchor="middle" font-family="system-ui, -apple-system, 'SF Pro Text', 'Segoe UI', sans-serif" font-size="26" font-weight="600" fill="#9CA3AF" letter-spacing="8">
+    PEOPLE. IDEAS. PROGRESS.
+  </text>
+</svg>

@@ -161,7 +161,7 @@ I combine deep technical execution with battle-tested project leadership:
 
 <!-- Project 1 Card -->
 <a href="https://github.com/Adityadrasal007/VISION-FLOW" target="_blank">
-  <img src="./assets/project-vision-flow.png" width="100%" alt="Vision Flow Banner" style="border-radius: 8px;"/>
+  <img src="./assets/project-vision-flow.png" width="100%" alt="Vision Flow Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
 </a>
 
 <br/><br/>
@@ -205,7 +205,7 @@ I combine deep technical execution with battle-tested project leadership:
 
 <!-- Project 2 Card -->
 <a href="https://github.com/Adityadrasal007/VISION_STUDIO" target="_blank">
-  <img src="./assets/project-vision-studio.png" width="100%" alt="Vision Studio Banner" style="border-radius: 8px;"/>
+  <img src="./assets/project-vision-studio.png" width="100%" alt="Vision Studio Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
 </a>
 
 <br/><br/>
