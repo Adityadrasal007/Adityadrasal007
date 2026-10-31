@@ -101,15 +101,12 @@
 
 ### ⚡ The Hybrid Edge: Engineering Intelligence &amp; Scaling Execution
 
-> *"Most engineers build models in isolation without understanding cross-functional timelines or resource constraints. Most project managers coordinate schedules without understanding tensor memory, CUDA kernels, or edge latency bottlenecks.*
->
-> ***I bridge both:*** *architecting production-grade Computer Vision platforms with deep technical autonomy, while leading multi-tier organizations of 150+ people with rigorous Agile delivery discipline."*
+> *"I bridge silicon-level Computer Vision architecture with executive delivery discipline — building autonomous edge platforms while leading multi-tier organizations of 150+ people with rigorous Agile delivery."*
 
 ---
 
-**🎓 Academic Foundation:** Bachelor of Computer Science Engineering &amp; Technology  
-**🏛️ University:** Pimpri-Chinchwad University (PCU), Pune, India · **CGPA 9.1 / 10** (Graduating Class of 2027)  
-**🏅 Core Accreditations:** Google Project Management Professional · IBM Machine Learning Specialist · Atlassian Jira Agile  
+**🎓 Degree:** B.Tech in Computer Science Engineering &amp; Technology · **PCU Pune ('27)** · **CGPA 9.1 / 10**  
+**🏅 Accreditations:** Google Project Management Professional · IBM Machine Learning · Atlassian Jira Agile  
 
 </td>
 </tr>
@@ -120,62 +117,42 @@
 <!-- ─── DUAL CORE ENGINE MATRIX ─── -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 16px; background-color: #0c1017; border-top: 3px solid #FF5722; border-radius: 10px;">
+<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-top: 3px solid #FF5722; border-radius: 10px;">
 
-### 🧠 &nbsp; CORE 01: THE AI &amp; COMPUTER VISION ENGINEER
+### 🧠 &nbsp; CORE 01: AI &amp; COMPUTER VISION ENGINEER
 *From Raw Tensor to Low-Latency Edge Silicon*
 
 <p>
-  <img src="https://img.shields.io/badge/Specialization-Computer_Vision-FF5722?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product_Builder-0_→_1_Platforms-00F2FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product-0_→_1_Platforms-00F2FE?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-PyTorch_CUDA-EE4C2C?style=flat-square" />
 </p>
 
-- ⚡ **Deep Learning &amp; YOLO Mastery:** PyTorch with CUDA hardware acceleration, Ultralytics YOLOv8/11/26 custom training pipelines, scikit-learn, NumPy, and Pandas.
-- 👁️ **High-Precision Perception:** Multi-target object detection, **SAM-assisted polygonal segmentation**, and high-throughput real-time video stream analytics.
-- 📹 **Production Edge Ingestion:** Asynchronous multi-camera streaming pipelines handling concurrent USB 3.0, RTSP H.264/H.265, and QR-paired mobile handheld camera inputs.
-- 🔄 **Active-Learning MLOps:** Autonomous false-positive capture and feedback loops routing low-confidence edge frames back to retraining, driving **~20% accuracy gains** over time *(per resume)*.
-- 📦 **Hardware Quantization &amp; Export:** Direct neural graph compilation to **TorchScript** and **Intel OpenVINO** intermediate representations (IR) for zero-cloud edge silicon.
+- ⚡ **YOLO &amp; PyTorch (CUDA):** Custom pipelines for YOLOv8/11/26 with hardware acceleration.
+- 👁️ **Perception &amp; SAM:** Multi-target detection and single-click SAM polygonal segmentation.
+- 📹 **Async Stream Ingestion:** Concurrent multi-camera pipelines (RTSP, USB 3.0, mobile QR).
+- 🔄 **Active-Learning MLOps:** Automated low-confidence edge triage routing (~20% accuracy gain).
+- 📦 **Hardware Quantization:** Direct compilation to TorchScript &amp; Intel OpenVINO IR (~45ms latency).
 
 </td>
-<td width="50%" valign="top" style="padding: 16px; background-color: #0c1017; border-top: 3px solid #8B5CF6; border-radius: 10px;">
+<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-top: 3px solid #8B5CF6; border-radius: 10px;">
 
-### 🎯 &nbsp; CORE 02: THE AI PROJECT MANAGER &amp; LEADER
+### 🎯 &nbsp; CORE 02: AI PROJECT MANAGER &amp; LEADER
 *From Product Vision to On-Time, Under-Budget Delivery*
 
 <p>
-  <img src="https://img.shields.io/badge/Leadership-150+_Workforce-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workforce-150+_Directed-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Scale-6,000+_Attendees-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methodology-Agile_/_Scrum-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-Agile_/_Jira-0052CC?style=flat-square" />
 </p>
 
-- 👥 **Large-Scale Workforce Leadership:** Directing an operational organization of **150+ student volunteers** across major campus flagship initiatives including IDEATHON 2.0 and Pitch Fest.
-- 🎪 **Flagship Operations Execution:** Led 3 consecutive editions of the university Anantam Cultural Festival, directing **200+ team members** and coordinating budgets, safety, staging, and vendor relations for **6,000+ attendees** with a **100% on-time milestone record**.
-- 📊 **Agile Governance &amp; Execution:** Certified in **Google Project Management** and **Agile with Atlassian Jira**; translating ambiguous requirements into structured epics, user stories, sprint cycles, and burndown tracking.
-- 🛡️ **Risk Mitigation &amp; Fiscal Ownership:** Controlling scope creep, managing cross-functional dependencies, and consistently delivering concurrent initiatives **under budget**.
+- 👥 **150+ Workforce Leadership:** Cultural President steering campus flagships (IDEATHON 2.0 &amp; Pitch Fest).
+- 🎪 **6,000+ Attendee Scale:** Directed 3 consecutive editions of Anantam Festival with 100% on-time delivery.
+- 📊 **Agile Governance:** Certified in Google PM &amp; Jira; structured 2-week sprints and burndown tracking.
+- 🛡️ **Budget &amp; Risk Control:** Maintained zero budget overruns and strict cross-functional risk ownership.
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<!-- ─── RECRUITER VALUE PILLARS ─── -->
-<table width="100%">
-  <tr align="center">
-    <td width="33%" style="padding: 14px 10px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #FF5722; border-radius: 8px;">
-      <b style="color: #FFFFFF;">🛠️ Technical Depth</b><br/>
-      <sub style="color: #9CA3AF;">Zero-cloud edge inference, custom YOLO pipelines &amp; CUDA optimization</sub>
-    </td>
-    <td width="33%" style="padding: 14px 10px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #00F2FE; border-radius: 8px;">
-      <b style="color: #FFFFFF;">🤝 Cross-Functional Bridge</b><br/>
-      <sub style="color: #9CA3AF;">Translates business KPIs to engineering specs &amp; manages executive stakeholders</sub>
-    </td>
-    <td width="33%" style="padding: 14px 10px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #8B5CF6; border-radius: 8px;">
-      <b style="color: #FFFFFF;">📈 Proven Delivery Track Record</b><br/>
-      <sub style="color: #9CA3AF;">150+ people led, 6,000+ scale managed, 100% on-time &amp; under budget</sub>
-    </td>
-  </tr>
 </table>
 
 <br/>
@@ -200,21 +177,19 @@
 ### VISION FLOW
 **Production Edge-AI Live Detection &amp; Monitoring System**
 
-> Real-time perimeter and facility monitoring system processing concurrent multi-camera feeds with edge-optimized inference.
+> Real-time multi-camera facility surveillance with edge-optimized YOLO inference.
 
-- 📹 **Concurrent Stream Ingestion:** Handles simultaneous USB, RTSP, and QR-paired mobile device camera feeds.
-- ⚡ **Ultra-Low Latency:** Average inference latency of **~45 ms** *(per resume metrics)*.
-- 🔄 **Active-Learning Loop:** Automatically routes edge false detections back into the training dataset, achieving an estimated **~20% accuracy uplift** over time *(per resume)*.
-- 🛡️ **Tamper-Evident Reporting:** Generates auto-certified compliance PDF reports using ReportLab &amp; SQLite WAL mode.
+- 📹 **Async Multi-Camera:** Concurrent RTSP, USB 3.0 &amp; mobile QR camera decoders.
+- ⚡ **Ultra-Low Latency:** Average inference latency of **~45 ms** on local silicon.
+- 🔄 **Active-Learning Loop:** Auto-routes edge false positives to retraining (**~20% accuracy uplift**).
+- 🛡️ **Tamper-Evident Audits:** SQLite WAL engine with cryptographically signed compliance PDFs.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-🔒_Proprietary_IP_/_Private_Repo-1F2937?style=flat-square" />
-  <br/>
+  <img src="https://img.shields.io/badge/Status-🔒_Proprietary_IP-1F2937?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO_v8/11/26-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLO-0052CC?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReportLab-F59E0B?style=flat-square" />
 </p>
 
 <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
@@ -231,9 +206,9 @@
 <summary><b>📐 Deep Dive: Vision Flow Implementation Highlights</b></summary>
 <br/>
 
-- **Concurrency Model:** Uses asynchronous worker pools with thread-isolated video capture to decouple frame decoders from neural inference kernels, eliminating frame drops.
-- **Active Learning Router:** Detections with boundary confidence falling between 0.35 and 0.65 are tagged, serialized with metadata, and dispatched to an offline staging pool for operator verification.
-- **Compliance Certification:** Each tamper-evident PDF is bound with a cryptographic timestamp and frame hash to ensure court-ready audit integrity.
+- **Concurrency:** Asynchronous worker pools decouple frame capture from neural inference, eliminating frame drops.
+- **Active Learning:** Boundary confidence (0.35–0.65) auto-routes frames to an offline verification staging pool.
+- **Tamper Evidence:** PDF reports embed cryptographic timestamps and SHA-256 frame hashes for court-ready audits.
 
 </details>
 
@@ -248,20 +223,18 @@
 ### VISION STUDIO
 **Fully Offline Computer Vision Model Studio**
 
-> End-to-end desktop platform for dataset preparation, SAM annotation, and GPU-accelerated neural training with zero cloud dependency.
+> Offline desktop platform for dataset preparation, SAM annotation, and GPU training.
 
-- 🖥️ **100% Offline Autonomy:** Complete computer vision lifecycle entirely localized on local GPU silicon — zero API dependencies or cloud costs.
-- 🎯 **Multi-Task Annotation Engine:** Unified workspace for Bounding Box Detection, **SAM-assisted Semantic Segmentation**, and Classification.
+- 🖥️ **100% Offline Autonomy:** Complete CV model lifecycle on local GPU silicon — zero cloud costs.
+- 🎯 **SAM Annotation Engine:** Single-click polygonal auto-segmentation cutting manual annotation time by ~75%.
 - 🎬 **Feed Frame Extraction:** Automated frame capture directly from RTSP network and USB camera inputs.
-- 📦 **One-Click Model Export:** High-efficiency deployment targets including **TorchScript** and **OpenVINO** formats.
+- 📦 **Silicon IR Export:** One-click compilation to **TorchScript** trace and **Intel OpenVINO** formats.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-🔒_Proprietary_IP_/_Private_Repo-1F2937?style=flat-square" />
-  <br/>
+  <img src="https://img.shields.io/badge/Status-🔒_Proprietary_IP-1F2937?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch_CUDA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SAM-0052CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyWebView-181717?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenVINO-8B5CF6?style=flat-square" />
 </p>
 
@@ -279,9 +252,9 @@
 <summary><b>🔬 Deep Dive: Vision Studio Implementation Highlights</b></summary>
 <br/>
 
-- **SAM-Assisted Segmentation:** Embeds Meta's Segment Anything Model (SAM) locally to generate pixel-perfect polygonal masks with single-click centroid prompts, cutting annotation time by ~75%.
-- **Zero Cloud Footprint:** Desktop architecture wrapped in lightweight PyWebView with a high-speed local FastAPI backend, providing responsive desktop UI ergonomics without browser overhead.
-- **Export Pipeline:** Direct one-click compilation to TorchScript trace and Intel OpenVINO intermediate representations (IR) for rapid production deployment on embedded CPUs/NPUs.
+- **SAM Segmentation:** Embeds Segment Anything Model locally for single-click polygonal masks, saving ~75% labeling effort.
+- **Desktop Runtime:** Lightweight PyWebView with local FastAPI backend; zero browser overhead or cloud subscriptions.
+- **Hardware Export:** Direct quantization and neural graph compilation targeting embedded Intel and ARM NPUs.
 
 </details>
 
@@ -314,45 +287,43 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 14px;">
+<td width="50%" valign="top" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 14px;">
 
-#### 👁️ Computer Vision & Deep Learning
+#### 👁️ Computer Vision &amp; Generative AI
 ![PyTorch](https://img.shields.io/badge/PyTorch_(CUDA)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO_(v8/11/26)-0052CC?style=flat-square&logo=yolo&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-0052CC?style=flat-square&logo=yolo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/Intel_OpenVINO-8B5CF6?style=flat-square)
 <br/>
-![Object Detection](https://img.shields.io/badge/Object_Detection-222?style=flat-square)
-![SAM Segmentation](https://img.shields.io/badge/SAM--assisted_Segmentation-222?style=flat-square)
-![Real-Time Analytics](https://img.shields.io/badge/Real--Time_Video_Analytics-222?style=flat-square)
-![Export](https://img.shields.io/badge/TorchScript_/_OpenVINO-222?style=flat-square)
-
-#### 🤖 Generative AI & Agentic Systems
-![LLM APIs](https://img.shields.io/badge/LLM_APIs_(Claude_/_OpenAI)-412991?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?style=flat-square)
+![SAM](https://img.shields.io/badge/Meta_SAM-0052CC?style=flat-square)
+<br/><br/>
+#### 🤖 LLMs &amp; Agentic Frameworks
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-222?style=flat-square)
 
 </td>
-<td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 14px;">
+<td width="50%" valign="top" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 14px;">
 
-#### ⚡ Full-Stack & Systems Engineering
+#### ⚡ Systems &amp; Full-Stack Engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite WAL](https://img.shields.io/badge/SQLite_(WAL_mode)-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SSE](https://img.shields.io/badge/Server--Sent_Events_(SSE)-222?style=flat-square)
-
-#### 🎯 Leadership & Project Management
+![SQLite WAL](https://img.shields.io/badge/SQLite_(WAL)-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br/><br/>
+#### 🎯 Agile Governance &amp; Scale Leadership
 ![Agile/Scrum](https://img.shields.io/badge/Agile_/_Scrum-0052CC?style=flat-square)
 ![Jira](https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Stakeholder Mgmt](https://img.shields.io/badge/Stakeholder_Management-222?style=flat-square)
-![Risk Mitigation](https://img.shields.io/badge/Risk_Mitigation-222?style=flat-square)
-![Cross-Functional Leadership](https://img.shields.io/badge/Cross--Functional_Leadership_(150+)-222?style=flat-square)
+![Google PM](https://img.shields.io/badge/Google_PM_Certified-4285F4?style=flat-square&logo=google&logoColor=white)
+![Leadership](https://img.shields.io/badge/150+_Workforce_Leadership-8B5CF6?style=flat-square)
 
 </td>
 </tr>
@@ -373,22 +344,22 @@
 <td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 14px;">
 
 ### 🔭 &nbsp; Active Engineering Focus
-- **TensorRT &amp; INT8 Quantization:** Benchmarking post-training quantization on YOLO11 architectures for sub-30ms inference on embedded edge accelerators.
-- **Multi-Camera Synchronous Pipeline:** Extending asynchronous frame ingestion to handle concurrent 4K RTSP streams with zero frame tearing.
+- **TensorRT &amp; INT8 Quantization:** Compiling YOLO11 for sub-30ms embedded edge accelerators.
+- **Multi-Camera Sync:** Async zero-copy ingestion for concurrent 4K RTSP stream decoders.
 
 </td>
 <td width="50%" valign="top" style="padding: 22px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 14px;">
 
 ### 🧪 &nbsp; What's in the Lab
-- **Vision Studio v2:** Prototyping zero-shot prompt-based bounding detection integrating SAM 2 and open-vocabulary detection backends.
-- **Tamper-Evident Video Ledger:** Researching cryptographic hash chains on streaming video frames for industrial compliance verification.
+- **Vision Studio v2:** Zero-shot prompt-based bounding segmentation with SAM 2 backends.
+- **Tamper-Evident Ledger:** Cryptographic hash chains on live video frames for industrial compliance.
 
 </td>
 </tr>
 <tr>
-<td colspan="2" style="padding: 16px 22px; background-color: #080c14; border: 1px solid #1f2937; border-top: none; border-radius: 0 0 14px 14px;">
+<td colspan="2" style="padding: 14px 20px; background-color: #080c14; border: 1px solid #1f2937; border-top: none; border-radius: 0 0 14px 14px;">
 
-**🎯 Current Target:** Seeking high-impact **AI Engineer / Computer Vision Specialist** roles and research collaborations for 2026/2027.
+**🎯 Current Target:** Seeking high-impact **AI Engineer &amp; Technical PM** roles and research collaborations for 2026/2027.
 
 </td>
 </tr>
@@ -402,7 +373,7 @@
 
 ## &nbsp; 👑 &nbsp; Executive Leadership & High-Stakes Operations
 
-> *"Algorithms alone do not create enterprise impact. Production AI requires leaders who can command multi-tier organizations, enforce fiscal discipline, and steer complex stakeholder operations to zero-defect delivery."*
+> *"Engineering invents the technology. Executive leadership aligns people, capital, and operations to deliver it at scale."*
 
 <br/>
 
@@ -419,7 +390,7 @@
     <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #FF5722; border-radius: 8px;">
       <h2 style="margin: 0; color: #FF5722;">👥 150+</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Active Workforce</b></p>
-      <sub style="color: #9CA3AF;">Tiered Squads &amp; Direct Volunteer Leadership</sub>
+      <sub style="color: #9CA3AF;">Tiered Squads &amp; Direct Leadership</sub>
     </td>
     <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #10B981; border-radius: 8px;">
       <h2 style="margin: 0; color: #10B981;">💰 100%</h2>
@@ -429,12 +400,12 @@
     <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #00F2FE; border-radius: 8px;">
       <h2 style="margin: 0; color: #00F2FE;">🎪 6,000+</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Scale Footfall</b></p>
-      <sub style="color: #9CA3AF;">Multi-Venue Logistics &amp; Crowd Kinetics</sub>
+      <sub style="color: #9CA3AF;">Multi-Venue Crowd Kinetics</sub>
     </td>
     <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #8B5CF6; border-radius: 8px;">
       <h2 style="margin: 0; color: #8B5CF6;">⏱️ 100%</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>On-Time Delivery</b></p>
-      <sub style="color: #9CA3AF;">Strict Milestone Sign-Offs &amp; Zero Delay</sub>
+      <sub style="color: #9CA3AF;">Strict Sprint Sign-Offs &amp; Zero Delay</sub>
     </td>
   </tr>
 </table>
@@ -453,13 +424,12 @@
 <p>
   <img src="https://img.shields.io/badge/Workforce-150+_Volunteers-FF5722?style=flat-square" />
   <img src="https://img.shields.io/badge/Budget-100%25_Under-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methodology-Agile_/_Jira-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile-Jira_Sprints-0052CC?style=flat-square" />
 </p>
 
-- 👥 **Large-Scale Organization:** Directing an operational machinery of **150+ student volunteers** organized into autonomous functional squads (Logistics, Tech Infrastructure, Public Relations, and Finance).
-- 🚀 **Flagship Technical Programs:** Spearheaded the end-to-end execution of **IDEATHON 2.0** and **Pitch Fest**, building incubation pipelines for student innovators and prototype showcases.
-- 📊 **Agile Delivery Cadence:** Replaced ad-hoc coordination with 2-week sprint cycles, daily 15-minute standups, and transparent Jira task boards to eliminate milestone bottlenecks.
-- 🛡️ **Capital Stewardship:** Managed multi-department procurement and vendor escrow allocations, delivering all council operations **100% under budget**.
+- 👥 **150+ Direct Volunteers:** Mobilized across IDEATHON 2.0, Pitch Fest, and technical incubation pipelines.
+- 📊 **Agile Governance:** Implemented 2-week Jira sprint cycles and standups, eliminating milestone bottlenecks.
+- 💰 **100% Under Budget:** Audited multi-tier vendor procurement, delivering all operations with zero overruns.
 
 </td>
 <td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-left: 3px solid #8B5CF6; border-radius: 10px;">
@@ -474,10 +444,9 @@
   <img src="https://img.shields.io/badge/Record-100%25_On--Time-10B981?style=flat-square" />
 </p>
 
-- 🎯 **3-Year Continuous Mandate:** Re-appointed across 3 consecutive years to steer the university's premier 2-day flagship gathering of **6,000+ simultaneous attendees**.
-- 🔒 **High-Density Crowd Safety:** Orchestrated perimeter security, multi-gate ingress/egress corridors, and coordinated emergency medical contingencies with civic authorities.
-- ⚡ **Technical &amp; AV Staging:** Directed stage engineering, audio/visual power distribution, and live broadcast infrastructure with zero technical blackouts.
-- 🤝 **High-Stakes Stakeholder Relations:** Acted as central liaison between university executive leadership, celebrity management agencies, and 15+ external commercial vendors.
+- 🎪 **6,000+ Attendee Scale:** Directed operations for PCU's premier 2-day festival across 3 consecutive annual cycles.
+- 🛡️ **Zero-Incident Safety:** Orchestrated perimeter security, crowd kinetics, and emergency medical protocols.
+- ⏱️ **100% On-Time Record:** Managed 200+ crew members, multi-stage AV infrastructure, and 15+ commercial vendors.
 
 </td>
 </tr>
@@ -486,12 +455,12 @@
 <br/>
 
 <details>
-<summary><b>📋 Click to expand: The Executive Incident Command &amp; Risk Mitigation Playbook</b></summary>
+<summary><b>📋 Click to expand: Executive Incident Command &amp; Risk Mitigation Playbook</b></summary>
 <br/>
 
-- **Incident Command System (ICS):** Implemented a 4-tier operational delegation hierarchy (Executive Incident Lead → Cluster Directors → Strike Leads → On-Ground Volunteer Nodes) with clear 15-minute escalation SLAs.
-- **Capital &amp; Cost Control:** Zero-variance tracking, milestone-contingent vendor payouts, and contingency reserve buffers ensuring 100% fiscal compliance with zero budget overrun.
-- **Dynamic Crowd Kinetics:** Formulated dynamic buffer zoning and real-time walkie-talkie dispatch trees to resolve crowd density bottlenecks in under 60 seconds.
+- **Incident Command System (ICS):** 4-tier delegation tree (Incident Lead → Cluster Directors → Strike Leads → On-Ground Nodes) with 15-minute escalation SLAs.
+- **Fiscal Control:** Zero-variance expenditure tracking and milestone-gated vendor payouts, ensuring 100% compliance with zero overruns.
+- **Crowd Kinetics:** Dynamic buffer zoning and real-time walkie dispatch trees to resolve high-density bottlenecks in under 60 seconds.
 
 </details>
 
