@@ -193,23 +193,23 @@
 <td width="50%" valign="top">
 
 <!-- Project 1 Card -->
-<a href="https://github.com/Adityadrasal007/VISION-FLOW" target="_blank">
-  <img src="./assets/project-vision-flow.png" width="100%" alt="Vision Flow Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
-</a>
+<img src="./assets/project-vision-flow.png" width="100%" alt="Vision Flow Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
 
 <br/><br/>
 
-### [VISION FLOW](https://github.com/Adityadrasal007/VISION-FLOW)
-**Production Edge-AI Live Detection & Monitoring System**
+### VISION FLOW
+**Production Edge-AI Live Detection &amp; Monitoring System**
 
 > Real-time perimeter and facility monitoring system processing concurrent multi-camera feeds with edge-optimized inference.
 
 - 📹 **Concurrent Stream Ingestion:** Handles simultaneous USB, RTSP, and QR-paired mobile device camera feeds.
 - ⚡ **Ultra-Low Latency:** Average inference latency of **~45 ms** *(per resume metrics)*.
 - 🔄 **Active-Learning Loop:** Automatically routes edge false detections back into the training dataset, achieving an estimated **~20% accuracy uplift** over time *(per resume)*.
-- 🛡️ **Tamper-Evident Reporting:** Generates auto-certified compliance PDF reports using ReportLab & SQLite WAL mode.
+- 🛡️ **Tamper-Evident Reporting:** Generates auto-certified compliance PDF reports using ReportLab &amp; SQLite WAL mode.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Status-🔒_Proprietary_IP_/_Private_Repo-1F2937?style=flat-square" />
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO_v8/11/26-0052CC?style=flat-square" />
@@ -217,8 +217,8 @@
   <img src="https://img.shields.io/badge/ReportLab-F59E0B?style=flat-square" />
 </p>
 
-<a href="https://github.com/Adityadrasal007/VISION-FLOW">
-  <img src="https://img.shields.io/badge/Explore_Vision_Flow_→-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="View Vision Flow"/>
+<a href="mailto:adityadrasal007@gmail.com?subject=Inquiry%3A%20Vision%20Flow%20Architecture%20Demo">
+  <img src="https://img.shields.io/badge/🔒_Request_Architecture_Demo-FF5722?style=for-the-badge&logoColor=white" alt="Request Vision Flow Demo"/>
 </a>
 
 <br/><br/>
@@ -237,13 +237,11 @@
 <td width="50%" valign="top">
 
 <!-- Project 2 Card -->
-<a href="https://github.com/Adityadrasal007/VISION_STUDIO" target="_blank">
-  <img src="./assets/project-vision-studio.png" width="100%" alt="Vision Studio Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
-</a>
+<img src="./assets/project-vision-studio.png" width="100%" alt="Vision Studio Logo Banner" style="border-radius: 14px; border: 1px solid #1f2937; box-shadow: 0 8px 24px rgba(0,0,0,0.6);"/>
 
 <br/><br/>
 
-### [VISION STUDIO](https://github.com/Adityadrasal007/VISION_STUDIO)
+### VISION STUDIO
 **Fully Offline Computer Vision Model Studio**
 
 > End-to-end desktop platform for dataset preparation, SAM annotation, and GPU-accelerated neural training with zero cloud dependency.
@@ -254,6 +252,8 @@
 - 📦 **One-Click Model Export:** High-efficiency deployment targets including **TorchScript** and **OpenVINO** formats.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Status-🔒_Proprietary_IP_/_Private_Repo-1F2937?style=flat-square" />
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch_CUDA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SAM-0052CC?style=flat-square" />
@@ -261,8 +261,8 @@
   <img src="https://img.shields.io/badge/OpenVINO-8B5CF6?style=flat-square" />
 </p>
 
-<a href="https://github.com/Adityadrasal007/VISION_STUDIO">
-  <img src="https://img.shields.io/badge/Explore_Vision_Studio_→-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Vision Studio"/>
+<a href="mailto:adityadrasal007@gmail.com?subject=Inquiry%3A%20Vision%20Studio%20Architecture%20Demo">
+  <img src="https://img.shields.io/badge/🔒_Request_Architecture_Demo-8B5CF6?style=for-the-badge&logoColor=white" alt="Request Vision Studio Demo"/>
 </a>
 
 <br/><br/>
