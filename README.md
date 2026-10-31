@@ -76,11 +76,7 @@
 
 <br/>
 
-## &nbsp; 💻 &nbsp; Developer Console & Dossier
-
-<div align="center">
-  <img src="./assets/terminal-card.png" width="100%" alt="Developer Terminal Console" style="border-radius: 12px;"/>
-</div>
+## &nbsp; ⚡ &nbsp; Executive Dossier
 
 <br/>
 
@@ -188,34 +184,7 @@
 
 <br/>
 
-## &nbsp; 🧩 &nbsp; Visual Edge AI System Architecture
 
-> Interactive architecture of the **Vision Flow** edge deployment pipeline, showing concurrent stream ingestion, neural inference, active learning routing, and tamper-evident compliance audit trails.
-
-<div align="center">
-  <img src="./assets/pipeline-architecture.svg" width="100%" alt="Vision Flow Architecture Pipeline"/>
-</div>
-
-<br/>
-
-<details>
-<summary><b>🔍 Click to expand: Technical Architecture Specifications &amp; Telemetry Breakdown</b></summary>
-<br/>
-
-| Pipeline Stage | Implementation Details | Key Benchmark |
-|---|---|---|
-| **Stream Ingestion** | Async OpenCV capture handling RTSP H.264/H.265 network streams, USB 3.0 UVC sensors, and mobile camera feeds paired via QR handshake. | Concurrent multi-camera feed buffering |
-| **Inference Engine** | PyTorch with CUDA acceleration running Ultralytics YOLO (v8/11/26), SAM-assisted bounding segmentation, and TorchScript/OpenVINO export. | **~45 ms average inference latency** *(per resume)* |
-| **Active Learning Loop** | Automated confidence thresholding that captures ambiguous or false detections and routes them directly into the retraining dataset queue. | **~20% accuracy uplift** over time *(per resume)* |
-| **Compliance Engine** | Automated tamper-evident PDF generation using ReportLab, serializing incident timestamps, frame crops, and operator verification into SQLite WAL. | Audit-ready certified compliance output |
-
-</details>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
-
-<br/>
 
 ## &nbsp; 🚀 &nbsp; Flagship Projects
 
@@ -311,11 +280,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-> [!NOTE]
-> *Performance citations (~45 ms inference latency, ~20% accuracy uplift) are documented from resume project specifications and internal edge benchmarks.*
 
 <br/>
 
