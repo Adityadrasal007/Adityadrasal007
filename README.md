@@ -86,36 +86,100 @@
 
 <table>
 <tr>
-<td width="26%" align="center" valign="middle">
+<td width="24%" align="center" valign="middle">
 
-<img src="./assets/square_blazer.png" width="170" style="border-radius: 16px; border: 2px solid #FF5722;" alt="Aditya Rasal"/>
+<img src="./assets/square_blazer.png" width="165" style="border-radius: 16px; border: 2px solid #FF5722;" alt="Aditya Rasal"/>
 <br/><br/>
-<b>Aditya Rasal</b>
+<b style="font-size: 16px;">Aditya Rasal</b>
 <br/>
-<sub>AI Engineer · Pune, India</sub>
+<sub>AI Engineer &amp; Technical PM</sub>
+<br/>
+<sub>📍 Pune, Maharashtra, India</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/STATUS-🟢_ACTIVE_BUILDING-10B981?style=flat-square" alt="Status"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PCU_'27-9.1_CGPA-8B5CF6?style=flat-square" alt="CGPA"/>
 
 </td>
-<td width="74%" valign="top">
+<td width="76%" valign="top">
 
-### Bridging Silicon-Level Vision Intelligence & Executive Execution
+### ⚡ The Hybrid Edge: Engineering Intelligence &amp; Scaling Execution
 
-I am an **AI Engineer** specializing in Computer Vision, with hands-on experience designing, training, and deploying production ML pipelines end-to-end — from neural model development to full-stack deployment tooling and internal vision platforms.
+> *"Most engineers build models in isolation without understanding cross-functional timelines or resource constraints. Most project managers coordinate schedules without understanding tensor memory, CUDA kernels, or edge latency bottlenecks.*
+>
+> ***I bridge both:*** *architecting production-grade Computer Vision platforms with deep technical autonomy, while leading multi-tier organizations of 150+ people with rigorous Agile delivery discipline."*
 
-I combine deep technical execution with battle-tested project leadership:
-- 👁️ **Computer Vision & Hardware Acceleration:** PyTorch (CUDA), Ultralytics YOLOv8/11/26 architectures, SAM-assisted semantic segmentation, and edge quantization targets (TorchScript & OpenVINO).
-- ⚡ **Low-Latency Edge Ingestion:** Multi-camera streaming pipelines (concurrent USB, RTSP, and QR-paired mobile streams) operating at **~45 ms average latency** *(per resume)* with active-learning retraining feedback loops.
-- 👥 **High-Stakes Organizational Leadership:** Cultural President of the University Student Council directing **150+ student volunteers**, and Event Lead for the Anantam Cultural Festival managing **200+ team members** and **6,000+ attendees** across 3 consecutive editions with a 100% on-time milestone delivery record.
+---
 
-<hr/>
-
-**🎓 Education:** Bachelor of Computer Science Engineering & Technology  
-**🏛️ University:** Pimpri-Chinchwad University (PCU), Pune, Maharashtra, India  
-**📊 Standing:** **CGPA 9.1 / 10** · Graduating Class of 2027  
+**🎓 Academic Foundation:** Bachelor of Computer Science Engineering &amp; Technology  
+**🏛️ University:** Pimpri-Chinchwad University (PCU), Pune, India · **CGPA 9.1 / 10** (Graduating Class of 2027)  
+**🏅 Core Accreditations:** Google Project Management Professional · IBM Machine Learning Specialist · Atlassian Jira Agile  
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<!-- ─── DUAL CORE ENGINE MATRIX ─── -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding: 16px; background-color: #0c1017; border-top: 3px solid #FF5722; border-radius: 10px;">
+
+### 🧠 &nbsp; CORE 01: THE AI &amp; COMPUTER VISION ENGINEER
+*From Raw Tensor to Low-Latency Edge Silicon*
+
+<p>
+  <img src="https://img.shields.io/badge/Specialization-Computer_Vision-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inference-~45ms_Edge-00F2FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-PyTorch_CUDA-EE4C2C?style=flat-square" />
+</p>
+
+- ⚡ **Deep Learning &amp; YOLO Mastery:** PyTorch with CUDA hardware acceleration, Ultralytics YOLOv8/11/26 custom training pipelines, scikit-learn, NumPy, and Pandas.
+- 👁️ **High-Precision Perception:** Multi-target object detection, **SAM-assisted polygonal segmentation**, and high-throughput real-time video stream analytics.
+- 📹 **Production Edge Ingestion:** Asynchronous multi-camera streaming pipelines handling concurrent USB 3.0, RTSP H.264/H.265, and QR-paired mobile handheld camera inputs.
+- 🔄 **Active-Learning MLOps:** Autonomous false-positive capture and feedback loops routing low-confidence edge frames back to retraining, driving **~20% accuracy gains** over time *(per resume)*.
+- 📦 **Hardware Quantization &amp; Export:** Direct neural graph compilation to **TorchScript** and **Intel OpenVINO** intermediate representations (IR) for zero-cloud edge silicon.
+
+</td>
+<td width="50%" valign="top" style="padding: 16px; background-color: #0c1017; border-top: 3px solid #8B5CF6; border-radius: 10px;">
+
+### 🎯 &nbsp; CORE 02: THE AI PROJECT MANAGER &amp; LEADER
+*From Product Vision to On-Time, Under-Budget Delivery*
+
+<p>
+  <img src="https://img.shields.io/badge/Leadership-150+_Workforce-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scale-6,000+_Attendees-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-Agile_/_Scrum-0052CC?style=flat-square" />
+</p>
+
+- 👥 **Large-Scale Workforce Leadership:** Directing an operational organization of **150+ student volunteers** across major campus flagship initiatives including IDEATHON 2.0 and Pitch Fest.
+- 🎪 **Flagship Operations Execution:** Led 3 consecutive editions of the university Anantam Cultural Festival, directing **200+ team members** and coordinating budgets, safety, staging, and vendor relations for **6,000+ attendees** with a **100% on-time milestone record**.
+- 📊 **Agile Governance &amp; Execution:** Certified in **Google Project Management** and **Agile with Atlassian Jira**; translating ambiguous requirements into structured epics, user stories, sprint cycles, and burndown tracking.
+- 🛡️ **Risk Mitigation &amp; Fiscal Ownership:** Controlling scope creep, managing cross-functional dependencies, and consistently delivering concurrent initiatives **under budget**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── RECRUITER VALUE PILLARS ─── -->
+<table width="100%">
+  <tr align="center">
+    <td width="33%" style="padding: 10px;">
+      <b>🛠️ Technical Depth</b><br/>
+      <sub>Zero-cloud edge inference, custom YOLO pipelines &amp; CUDA optimization</sub>
+    </td>
+    <td width="33%" style="padding: 10px;">
+      <b>🤝 Cross-Functional Bridge</b><br/>
+      <sub>Translates business KPIs to engineering specs &amp; manages executive stakeholders</sub>
+    </td>
+    <td width="33%" style="padding: 10px;">
+      <b>📈 Proven Delivery Track Record</b><br/>
+      <sub>150+ people led, 6,000+ scale managed, 100% on-time &amp; under budget</sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
