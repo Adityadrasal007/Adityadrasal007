@@ -31,7 +31,7 @@
     aditya-rasal <tspan fill="#6B7280">//</tspan> <tspan fill="#FF5722">AI Engineer</tspan> · <tspan fill="#8B5CF6">Computer Vision</tspan> · <tspan fill="#10B981">Project Manager (150+ Led)</tspan>
   </text>
 
-  <!-- Line 2: aditya --profile -->
+  <!-- Line 2: aditya status -->
   <text x="24" y="122" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#00F2FE">$</text>
   <text x="40" y="122" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#FFFFFF">aditya --status</text>
   <text x="24" y="144" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E5E7EB">

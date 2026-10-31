@@ -418,11 +418,11 @@ I combine deep technical execution with battle-tested project leadership:
 <br/>
 
 <a href="https://github.com/Adityadrasal007">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Adityadrasal007&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF5722&icon_color=00F2FE&text_color=ffffff&ring_color=FF5722&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats"/>
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityadrasal007&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF5722&icon_color=00F2FE&text_color=ffffff&ring_color=FF5722&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/Adityadrasal007">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadrasal007&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8B5CF6&text_color=ffffff&langs_count=6" alt="Top Languages"/>
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityadrasal007&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8B5CF6&text_color=ffffff&langs_count=6" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -442,7 +442,7 @@ I combine deep technical execution with battle-tested project leadership:
 
 <!-- Contribution Activity Graph -->
 <a href="https://github.com/Adityadrasal007">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityadrasal007&bg_color=0a0a0a&color=ffffff&line=FF5722&point=00F2FE&area_color=FF5722&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://ghchart.rshah.org/FF5722/Adityadrasal007" alt="Aditya's GitHub Contribution Calendar" width="98%"/>
 </a>
 
 </div>
