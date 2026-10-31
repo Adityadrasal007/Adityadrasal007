@@ -7,7 +7,7 @@
 
 <!-- ─── HERO BILLBOARD ─── -->
 <a href="https://github.com/Adityadrasal007">
-  <img src="./assets/banner-1.png" width="100%" alt="Aditya Rasal — AI Engineer · Vision Flow · Vision Studio" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.6);"/>
+  <img src="./assets/banner-3.png" width="100%" alt="Aditya Rasal — AI Engineer &amp; AI Project Manager" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.6);"/>
 </a>
 
 <br/><br/>
