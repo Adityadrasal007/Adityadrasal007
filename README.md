@@ -46,9 +46,9 @@
 <table width="100%">
   <tr align="center">
     <td width="25%" style="padding: 14px;">
-      <h2 style="margin: 0; color: #00F2FE;">⚡ ~45 ms</h2>
-      <p style="margin: 4px 0 0 0; color: #D1D5DB; font-size: 13px;"><b>Edge Inference Latency</b></p>
-      <sub style="color: #6B7280;">Real-Time Multi-Camera YOLO *(per resume)*</sub>
+      <h2 style="margin: 0; color: #00F2FE;">🚀 0 → 1</h2>
+      <p style="margin: 4px 0 0 0; color: #D1D5DB; font-size: 13px;"><b>AI Product Builder</b></p>
+      <sub style="color: #6B7280;">Datasets · Models · Production UIs &amp; Edge Platforms</sub>
     </td>
     <td width="25%" style="padding: 14px;">
       <h2 style="margin: 0; color: #FF5722;">👥 150+</h2>
@@ -131,7 +131,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Specialization-Computer_Vision-FF5722?style=flat-square" />
-  <img src="https://img.shields.io/badge/Inference-~45ms_Edge-00F2FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product_Builder-0_→_1_Platforms-00F2FE?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-PyTorch_CUDA-EE4C2C?style=flat-square" />
 </p>
 
