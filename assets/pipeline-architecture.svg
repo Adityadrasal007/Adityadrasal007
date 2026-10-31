@@ -1,0 +1,144 @@
+<svg width="100%" height="auto" viewBox="0 0 1000 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1117" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <!-- Glowing Lines -->
+    <linearGradient id="line-orange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#FF5722" />
+    </linearGradient>
+    <linearGradient id="line-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5722" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="line-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5722" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+
+    <!-- Node Glow Filter -->
+    <filter id="glow-subtle" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="996" height="376" rx="14" fill="url(#card-bg)" stroke="#1F2937" stroke-width="1.5" />
+
+  <!-- Window Bar -->
+  <rect x="2" y="2" width="996" height="36" rx="14" fill="#141822" />
+  <rect x="2" y="24" width="996" height="14" fill="#141822" />
+  <line x1="2" y1="38" x2="998" y2="38" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Mac Control Dots -->
+  <circle cx="22" cy="19" r="5" fill="#EF4444" />
+  <circle cx="38" cy="19" r="5" fill="#F59E0B" />
+  <circle cx="54" cy="19" r="5" fill="#10B981" />
+
+  <!-- Window Title -->
+  <text x="500" y="23" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#9CA3AF" letter-spacing="1.5">
+    SYSTEM ARCHITECTURE // VISION-FLOW EDGE INFERENCE &amp; ACTIVE LEARNING PIPELINE
+  </text>
+  <rect x="850" y="11" width="130" height="16" rx="8" fill="#1F2937" />
+  <circle cx="862" cy="19" r="3" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <text x="872" y="22" font-family="'JetBrains Mono', monospace" font-size="9" fill="#10B981" font-weight="600">INFERENCE: 45ms</text>
+
+  <!-- Connector Paths -->
+  <!-- Ingestion to Inference -->
+  <path d="M 230 115 L 370 115" stroke="url(#line-orange)" stroke-width="2" stroke-dasharray="4 4">
+    <animate attributeName="stroke-dashoffset" values="8;0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <!-- Inference to Real-Time SSE -->
+  <path d="M 610 115 L 750 115" stroke="url(#line-green)" stroke-width="2" stroke-dasharray="4 4">
+    <animate attributeName="stroke-dashoffset" values="8;0" dur="1s" repeatCount="indefinite" />
+  </path>
+  <!-- Inference Down to Active Learning -->
+  <path d="M 490 190 L 490 240 L 370 275" stroke="url(#line-purple)" stroke-width="2" stroke-dasharray="4 4">
+    <animate attributeName="stroke-dashoffset" values="8;0" dur="1.2s" repeatCount="indefinite" />
+  </path>
+  <!-- Inference Down to Compliance ReportLab -->
+  <path d="M 490 190 L 490 240 L 610 275" stroke="#F59E0B" stroke-width="2" stroke-dasharray="4 4">
+    <animate attributeName="stroke-dashoffset" values="8;0" dur="1.2s" repeatCount="indefinite" />
+  </path>
+  <!-- Active Learning Feedback to Inference -->
+  <path d="M 230 275 L 140 275 L 140 190" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="3 3">
+    <animate attributeName="stroke-dashoffset" values="0;6" dur="1.5s" repeatCount="indefinite" />
+  </path>
+
+  <!-- ==================== STAGE 1: INGESTION ==================== -->
+  <g transform="translate(50, 60)">
+    <rect width="180" height="110" rx="10" fill="#111827" stroke="#00F2FE" stroke-width="1.2" />
+    <text x="90" y="24" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#00F2FE">1. CONCURRENT FEEDS</text>
+    <line x1="15" y1="34" x2="165" y2="34" stroke="#1F2937" stroke-width="1" />
+    <text x="20" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">📹 RTSP IP Surveillance</text>
+    <text x="20" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">🔌 USB 3.0 Optical Sensors</text>
+    <text x="20" y="88" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">📱 QR Mobile Handheld</text>
+    <text x="20" y="103" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#6B7280">Async OpenCV Ingestion</text>
+  </g>
+
+  <!-- ==================== STAGE 2: INFERENCE (HERO CORE) ==================== -->
+  <g transform="translate(370, 50)" filter="url(#glow-subtle)">
+    <rect width="240" height="135" rx="12" fill="#17121c" stroke="#FF5722" stroke-width="1.8" />
+    <rect x="15" y="12" width="210" height="22" rx="4" fill="#FF5722" fill-opacity="0.15" />
+    <text x="120" y="27" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#FF5722">2. NEURAL EDGE ENGINE</text>
+    
+    <text x="22" y="54" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#FFFFFF">YOLOv8 / 11 / 26 + PyTorch CUDA</text>
+    <text x="22" y="72" font-family="system-ui, sans-serif" font-size="10" fill="#D1D5DB">• Multi-target Detection &amp; Track</text>
+    <text x="22" y="88" font-family="system-ui, sans-serif" font-size="10" fill="#D1D5DB">• SAM-Assisted Segmentation</text>
+    <text x="22" y="104" font-family="system-ui, sans-serif" font-size="10" fill="#D1D5DB">• TorchScript &amp; OpenVINO Quant</text>
+
+    <rect x="22" y="112" width="196" height="15" rx="3" fill="#0A0A0A" />
+    <text x="120" y="123" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#10B981">LATENCY: ~45ms · ZERO CLOUD LAG</text>
+  </g>
+
+  <!-- ==================== STAGE 3: REAL-TIME DISTRIBUTION ==================== -->
+  <g transform="translate(750, 60)">
+    <rect width="200" height="110" rx="10" fill="#111827" stroke="#10B981" stroke-width="1.2" />
+    <text x="100" y="24" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#10B981">3. REAL-TIME TELEMETRY</text>
+    <line x1="15" y1="34" x2="185" y2="34" stroke="#1F2937" stroke-width="1" />
+    <text x="18" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">⚡ Server-Sent Events (SSE)</text>
+    <text x="18" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">🔔 Hardware Alert Tripping</text>
+    <text x="18" y="88" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">📊 Operator Live Dashboard</text>
+    <text x="18" y="103" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#6B7280">Sub-second Alert Dispatch</text>
+  </g>
+
+  <!-- ==================== STAGE 4: ACTIVE LEARNING RETRAINING ==================== -->
+  <g transform="translate(140, 230)">
+    <rect width="230" height="105" rx="10" fill="#140f21" stroke="#8B5CF6" stroke-width="1.2" />
+    <text x="115" y="24" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="700" fill="#8B5CF6">4. ACTIVE-LEARNING LOOP</text>
+    <line x1="15" y1="34" x2="215" y2="34" stroke="#1F2937" stroke-width="1" />
+    <text x="18" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">🔄 Low-Confidence Frame Router</text>
+    <text x="18" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">🎯 SAM-Assisted Re-Annotation</text>
+    <text x="18" y="88" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">📈 ~20% Accuracy Uplift Over Time</text>
+    <text x="18" y="100" font-family="'JetBrains Mono', monospace" font-size="8" fill="#A78BFA">Autonomous Continuous Training</text>
+  </g>
+
+  <!-- ==================== STAGE 5: COMPLIANCE & REPORTING ==================== -->
+  <g transform="translate(610, 230)">
+    <rect width="250" height="105" rx="10" fill="#1c160a" stroke="#F59E0B" stroke-width="1.2" />
+    <text x="125" y="24" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="700" fill="#F59E0B">5. TAMPER-EVIDENT COMPLIANCE</text>
+    <line x1="15" y1="34" x2="235" y2="34" stroke="#1F2937" stroke-width="1" />
+    <text x="18" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">📄 Certified ReportLab PDF Engine</text>
+    <text x="18" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">🗄️ SQLite WAL Forensic Storage</text>
+    <text x="18" y="88" font-family="system-ui, sans-serif" font-size="10" fill="#E5E7EB">🔒 Cryptographic Incident Watermark</text>
+    <text x="18" y="100" font-family="'JetBrains Mono', monospace" font-size="8" fill="#FBBF24">Enterprise Audit-Ready Logs</text>
+  </g>
+
+  <!-- Floating Data Packets on Ingestion Path -->
+  <circle cx="270" cy="115" r="3.5" fill="#00F2FE">
+    <animate attributeName="cx" values="230;370" dur="1.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="650" cy="115" r="3.5" fill="#10B981">
+    <animate attributeName="cx" values="610;750" dur="1.2s" repeatCount="indefinite" />
+  </circle>
+</svg>

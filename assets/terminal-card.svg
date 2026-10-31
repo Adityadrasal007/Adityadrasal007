@@ -1,0 +1,59 @@
+<svg width="100%" height="auto" viewBox="0 0 900 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f17" />
+      <stop offset="100%" stop-color="#070a0e" />
+    </linearGradient>
+  </defs>
+
+  <!-- Shell Frame -->
+  <rect x="2" y="2" width="896" height="286" rx="12" fill="url(#term-bg)" stroke="#1F2937" stroke-width="1.5" />
+
+  <!-- Titlebar -->
+  <rect x="2" y="2" width="896" height="34" rx="12" fill="#131b26" />
+  <rect x="2" y="22" width="896" height="14" fill="#131b26" />
+  <line x1="2" y1="36" x2="898" y2="36" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Mac Dots -->
+  <circle cx="20" cy="18" r="5" fill="#EF4444" />
+  <circle cx="36" cy="18" r="5" fill="#F59E0B" />
+  <circle cx="52" cy="18" r="5" fill="#10B981" />
+
+  <text x="450" y="22" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" fill="#9CA3AF" font-weight="600">
+    aditya@edge-node: ~ (zsh)
+  </text>
+
+  <!-- Commands & Output -->
+  <!-- Line 1: whoami -->
+  <text x="24" y="66" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#00F2FE">$</text>
+  <text x="40" y="66" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#FFFFFF">whoami</text>
+  <text x="24" y="88" font-family="'JetBrains Mono', monospace" font-size="12" fill="#9CA3AF">
+    aditya-rasal <tspan fill="#6B7280">//</tspan> <tspan fill="#FF5722">AI Engineer</tspan> · <tspan fill="#8B5CF6">Computer Vision</tspan> · <tspan fill="#10B981">Project Manager (150+ Led)</tspan>
+  </text>
+
+  <!-- Line 2: aditya --profile -->
+  <text x="24" y="122" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#00F2FE">$</text>
+  <text x="40" y="122" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#FFFFFF">aditya --status</text>
+  <text x="24" y="144" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E5E7EB">
+    [<tspan fill="#10B981">●</tspan>] <tspan fill="#10B981" font-weight="600">ACADEMICS</tspan> : B.Tech CSE&amp;T @ Pimpri-Chinchwad Univ · <tspan fill="#F59E0B" font-weight="600">CGPA 9.1 / 10</tspan> ('27)
+  </text>
+  <text x="24" y="164" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E5E7EB">
+    [<tspan fill="#FF5722">●</tspan>] <tspan fill="#FF5722" font-weight="600">VISION</tspan>    : PyTorch CUDA · YOLOv8/11/26 · SAM-assisted Segmentation · TorchScript/OpenVINO
+  </text>
+  <text x="24" y="184" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E5E7EB">
+    [<tspan fill="#00F2FE">●</tspan>] <tspan fill="#00F2FE" font-weight="600">EDGE AI</tspan>   : Real-time multi-camera ingestion (RTSP/USB) · <tspan fill="#00F2FE" font-weight="600">~45ms Latency</tspan>
+  </text>
+  <text x="24" y="204" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E5E7EB">
+    [<tspan fill="#8B5CF6">●</tspan>] <tspan fill="#8B5CF6" font-weight="600">COUNCIL</tspan>   : Cultural President (150+ workforce) · 3x Anantam Lead (6,000+ attendees)
+  </text>
+
+  <!-- Line 3: active prompt -->
+  <text x="24" y="244" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#00F2FE">$</text>
+  <text x="40" y="244" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#FFFFFF">aditya build --next-gen-ai</text>
+  <rect x="256" y="233" width="9" height="15" fill="#00F2FE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+  <text x="24" y="266" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6B7280">
+    Type "adityadrasal007@gmail.com" to initiate direct communication
+  </text>
+</svg>
