@@ -217,8 +217,12 @@
   <img src="https://img.shields.io/badge/ReportLab-F59E0B?style=flat-square" />
 </p>
 
-<a href="mailto:adityadrasal007@gmail.com?subject=Inquiry%3A%20Vision%20Flow%20Architecture%20Demo">
-  <img src="https://img.shields.io/badge/🔒_Request_Architecture_Demo-FF5722?style=for-the-badge&logoColor=white" alt="Request Vision Flow Demo"/>
+<a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
+  <img src="https://img.shields.io/badge/💬_Request_Demo_via_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Request Vision Flow Demo on LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityadrasal007@gmail.com&su=Inquiry%3A%20Vision%20Flow%20Architecture%20Demo" target="_blank">
+  <img src="https://img.shields.io/badge/✉️_Email_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inquiry"/>
 </a>
 
 <br/><br/>
@@ -261,8 +265,12 @@
   <img src="https://img.shields.io/badge/OpenVINO-8B5CF6?style=flat-square" />
 </p>
 
-<a href="mailto:adityadrasal007@gmail.com?subject=Inquiry%3A%20Vision%20Studio%20Architecture%20Demo">
-  <img src="https://img.shields.io/badge/🔒_Request_Architecture_Demo-8B5CF6?style=for-the-badge&logoColor=white" alt="Request Vision Studio Demo"/>
+<a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
+  <img src="https://img.shields.io/badge/💬_Request_Demo_via_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Request Vision Studio Demo on LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityadrasal007@gmail.com&su=Inquiry%3A%20Vision%20Studio%20Architecture%20Demo" target="_blank">
+  <img src="https://img.shields.io/badge/✉️_Email_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inquiry"/>
 </a>
 
 <br/><br/>
