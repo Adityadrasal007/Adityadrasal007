@@ -499,11 +499,11 @@
 
 <table width="100%">
   <tr>
-    <td style="padding: 16px; background-color: #0a0e17; border: 1px solid #1f2937; border-radius: 12px;">
+    <td style="padding: 16px 20px; background-color: #0c1017; border: 1px solid #1f2937; border-radius: 12px;">
       <p align="center" style="margin: 0 0 10px 0;">
-        <b style="color: #FF5722; font-family: monospace;">🟢 LIVE 365-DAY COMMIT FREQUENCY &amp; FLIGHT LOG</b>
+        <b style="color: #E5E7EB; font-family: monospace; font-size: 11px; letter-spacing: 1px;">LIVE 365-DAY COMMIT FREQUENCY &amp; REPOSITORY PULSE</b>
         <br/>
-        <sub style="color: #9CA3AF;">Direct public API synchronization · Continuous development cadence</sub>
+        <sub style="color: #6B7280;">Synchronized with GitHub Public API · Continuous development activity</sub>
       </p>
       <p align="center" style="margin: 0;">
         <a href="https://github.com/Adityadrasal007">
@@ -518,7 +518,7 @@
 
 <!-- ─── MINIMALIST TRANSPARENT STREAK COUNTER ─── -->
 <a href="https://github.com/Adityadrasal007">
-  <img src="https://streak-stats.demolab.com?user=Adityadrasal007&theme=transparent&hide_border=true&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=ffffff&sideNums=ffffff&currStreakNum=00F2FE&dates=888888" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Adityadrasal007&theme=transparent&hide_border=true&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=9CA3AF&sideNums=E5E7EB&currStreakNum=FF5722&dates=6B7280" alt="GitHub Streak"/>
 </a>
 
 </div>
