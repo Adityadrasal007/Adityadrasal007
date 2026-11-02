@@ -61,7 +61,7 @@
       <sub style="color: #9CA3AF;">B.Tech CSE&amp;T · PCU Graduating '27</sub>
     </td>
     <td width="25%" style="padding: 18px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #10B981; border-radius: 10px;">
-      <h2 style="margin: 0; color: #10B981;">🎪 6,000+</h2>
+      <h2 style="margin: 0; color: #10B981;">🎪 10,000+</h2>
       <p style="margin: 6px 0 0 0; color: #F3F4F6; font-size: 13px;"><b>Festival Scale Managed</b></p>
       <sub style="color: #9CA3AF;">Anantam Festival (3 Editions)</sub>
     </td>
