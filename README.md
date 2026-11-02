@@ -14,7 +14,7 @@
 
 <!-- ─── DYNAMIC TYPING SUBTITLE ─── -->
 <a href="https://github.com/Adityadrasal007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=FF5722&center=true&vCenter=true&multiline=false&width=650&height=36&lines=AI+Engineer+%E2%80%94+Computer+Vision+%26+Edge+AI;Real-Time+YOLO+Pipelines+%C2%B7+PyTorch+CUDA+%C2%B7+SAM;Directing+150%2B+Volunteer+Workforce+%C2%B7+Agile+Lead;Architecting+Systems+That+See%2C+Understand%2C+and+Act" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1200&color=FF5722&center=true&vCenter=true&multiline=false&width=720&height=36&lines=AI+Engineer+%E2%80%94+Real-Time+Computer+Vision+%26+Edge+AI;PyTorch+%C2%B7+CUDA+%C2%B7+YOLOv11+%C2%B7+SAM+2+%C2%B7+TensorRT;AI+Project+Manager+%E2%80%94+150%2B+Workforce+%C2%B7+Agile+Governance;Available+for+AI+Co-Op+%26+Applied+Deep+Learning+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,11 +29,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:adityadrasal007@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityadrasal007@gmail.com&su=Technical%20Interview%20Inquiry%20-%20Aditya%20Rasal" target="_blank">
     <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Adityadrasal007&color=FF5722&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+</p>
+
+<!-- ─── RECRUITER HUD & AVAILABILITY PILL ROW ─── -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-🟢_OPEN_TO_AI_CO--OPS_%26_ROLES-111722?style=flat-square&logo=statuspage&logoColor=10B981" alt="Status"/>
+  <img src="https://img.shields.io/badge/FOCUS-Edge_Computer_Vision-111722?style=flat-square&logo=nvidia&logoColor=FF5722" alt="Focus"/>
+  <img src="https://img.shields.io/badge/TECH-PyTorch_%C2%B7_CUDA_%C2%B7_YOLO-111722?style=flat-square&logo=pytorch&logoColor=FF5722" alt="Tech"/>
+  <img src="https://img.shields.io/badge/LEADERSHIP-150+_Workforce-111722?style=flat-square&logo=gitkraken&logoColor=FF5722" alt="Leadership"/>
+  <img src="https://img.shields.io/badge/LOCATION-Pune_%2F_Open_to_Relocation-111722?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 </div>
@@ -76,7 +85,10 @@
 
 <br/>
 
-## &nbsp; ⚡ &nbsp; Executive Dossier
+## &nbsp; ⚡ &nbsp; Executive Dossier &amp; Industry Alignment
+
+> **Target Roles:** Computer Vision Engineer · Applied AI Systems Engineer · AI Technical Program Manager  
+> **Availability:** Open for 2026/2027 AI Co-Ops, Internships &amp; Full-Time Roles · Pune, India (Open to Relocation &amp; Remote)
 
 <br/>
 
@@ -92,9 +104,9 @@
 <br/>
 <sub style="color: #9CA3AF;">📍 Pune, Maharashtra, India</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/STATUS-🟢_ACTIVE_BUILDING-10B981?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/STATUS-🟢_ACTIVE_BUILDING-111722?style=flat-square&logo=statuspage&logoColor=10B981" alt="Status"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/PCU_'27-9.1_CGPA-8B5CF6?style=flat-square" alt="CGPA"/>
+<img src="https://img.shields.io/badge/PCU_'27-9.1_CGPA-111722?style=flat-square&logoColor=white" alt="CGPA"/>
 
 </td>
 <td width="74%" valign="top" style="padding: 24px; background-color: #0c1017; border: 1px solid #1f2937; border-left: none; border-top: 3px solid #FF5722; border-radius: 0 12px 12px 0;">
@@ -105,8 +117,9 @@
 
 ---
 
-**🎓 Degree:** B.Tech in Computer Science Engineering &amp; Technology · **PCU Pune ('27)** · **CGPA 9.1 / 10**  
+**🎓 Degree:** B.Tech in Computer Science Engineering &amp; Technology · **PCU Pune ('27)** · **CGPA 9.1 / 10 (Top 5%)**  
 **🏅 Accreditations:** Google Project Management Professional · IBM Machine Learning · Atlassian Jira Agile  
+**🎯 Core Strengths:** Edge AI (YOLO/SAM/CUDA), <15ms Inference Budgets, Active-Learning Loops, High-Stakes Operations  
 
 </td>
 </tr>
@@ -117,37 +130,37 @@
 <!-- ─── DUAL CORE ENGINE MATRIX ─── -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-top: 3px solid #FF5722; border-radius: 10px;">
+<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border: 1px solid #1f2937; border-left: 3px solid #FF5722; border-radius: 10px;">
 
 ### 🧠 &nbsp; CORE 01: AI &amp; COMPUTER VISION ENGINEER
 *From Raw Tensor to Low-Latency Edge Silicon*
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Computer_Vision-FF5722?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product-0_→_1_Platforms-00F2FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-PyTorch_CUDA-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Computer_Vision-1f2937?style=flat-square&logo=nvidia&logoColor=FF5722" />
+  <img src="https://img.shields.io/badge/Product-0_→_1_Platforms-1f2937?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-PyTorch_CUDA-1f2937?style=flat-square&logo=pytorch&logoColor=FF5722" />
 </p>
 
-- ⚡ **YOLO &amp; PyTorch (CUDA):** Custom pipelines for YOLOv8/11/26 with hardware acceleration.
+- ⚡ **YOLO &amp; PyTorch (CUDA):** Custom pipelines for YOLOv8/11 with TensorRT edge acceleration.
 - 👁️ **Perception &amp; SAM:** Multi-target detection and single-click SAM polygonal segmentation.
 - 📹 **Async Stream Ingestion:** Concurrent multi-camera pipelines (RTSP, USB 3.0, mobile QR).
 - 🔄 **Active-Learning MLOps:** Automated low-confidence edge triage routing (~20% accuracy gain).
 - 📦 **Hardware Quantization:** Direct compilation to TorchScript &amp; Intel OpenVINO IR (~45ms latency).
 
 </td>
-<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-top: 3px solid #8B5CF6; border-radius: 10px;">
+<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border: 1px solid #1f2937; border-left: 3px solid #FF5722; border-radius: 10px;">
 
 ### 🎯 &nbsp; CORE 02: AI PROJECT MANAGER &amp; LEADER
 *From Product Vision to On-Time, Under-Budget Delivery*
 
 <p>
-  <img src="https://img.shields.io/badge/Workforce-150+_Directed-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scale-6,000+_Attendees-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methodology-Agile_/_Jira-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workforce-150+_Directed-1f2937?style=flat-square&logo=gitkraken&logoColor=FF5722" />
+  <img src="https://img.shields.io/badge/Scale-10,000+_Attendees-1f2937?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Methodology-Agile_/_Jira-1f2937?style=flat-square&logo=jira&logoColor=0052CC" />
 </p>
 
 - 👥 **150+ Workforce Leadership:** Cultural President steering campus flagships (IDEATHON 2.0 &amp; Pitch Fest).
-- 🎪 **6,000+ Attendee Scale:** Directed 3 consecutive editions of Anantam Festival with 100% on-time delivery.
+- 🎪 **10,000+ Attendee Scale:** Directed 3 consecutive editions of Anantam Festival with 100% on-time delivery.
 - 📊 **Agile Governance:** Certified in Google PM &amp; Jira; structured 2-week sprints and burndown tracking.
 - 🛡️ **Budget &amp; Risk Control:** Maintained zero budget overruns and strict cross-functional risk ownership.
 
@@ -535,18 +548,58 @@
 
 <table width="100%">
   <tr>
-    <td align="center" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #4285F4; border-radius: 12px;">
+    <td align="center" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 12px;">
       <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
-        <img src="https://img.shields.io/badge/Google-Project_Management_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM"/>
+        <img src="https://img.shields.io/badge/Google-Project_Management_Professional-111722?style=flat-square&logo=google&logoColor=white&labelColor=0c1017" alt="Google PM"/>
       </a>
       &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
-        <img src="https://img.shields.io/badge/IBM-Machine_Learning_Specialist-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM ML"/>
+        <img src="https://img.shields.io/badge/IBM-Machine_Learning_Specialist-111722?style=flat-square&logo=ibm&logoColor=white&labelColor=0c1017" alt="IBM ML"/>
       </a>
       &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
-        <img src="https://img.shields.io/badge/Atlassian-Agile_with_Jira-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian Jira"/>
+        <img src="https://img.shields.io/badge/Atlassian-Agile_with_Jira-111722?style=flat-square&logo=atlassian&logoColor=white&labelColor=0c1017" alt="Atlassian Jira"/>
       </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ─── RECRUITER CALL-TO-ACTION & AVAILABILITY TERMINAL ─── -->
+## &nbsp; 📡 &nbsp; Recruitment &amp; Availability Gateway
+
+<div align="center">
+
+<table width="100%" style="background-color: #0c1017; border: 1px solid #1f2937; border-left: 4px solid #FF5722; border-radius: 10px;">
+  <tr>
+    <td style="padding: 24px 20px; text-align: center;">
+      <h3 style="margin: 0; color: #FFFFFF; font-size: 19px; letter-spacing: -0.3px;">Ready to Deploy High-Performance AI &amp; Scaled Systems</h3>
+      <p style="margin: 8px auto 18px auto; color: #9CA3AF; font-size: 13.5px; max-width: 640px; line-height: 1.5;">
+        Available for <b>2026/2027 AI Engineering Co-Ops</b>, <b>Computer Vision Internships</b>, and <b>AI Technical Program Management</b>. Relocation ready &amp; remote equipped.
+      </p>
+      <p align="center">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityadrasal007@gmail.com&su=Technical%20Interview%20/%20Opportunity%20-%20Aditya%20Rasal" target="_blank">
+          <img src="https://img.shields.io/badge/✉️_Schedule_Technical_Screen-FF5722?style=for-the-badge&logoColor=white" alt="Schedule Interview"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/adityarasal007" target="_blank">
+          <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="./assets/Resume-Aditya.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/📄_View_Official_Resume-1F2937?style=for-the-badge&logoColor=white" alt="Resume"/>
+        </a>
+      </p>
+      <p style="margin: 14px 0 0 0; font-family: monospace; font-size: 11px; color: #6B7280;">
+        ⚡ Direct Dispatch: <a href="mailto:adityadrasal007@gmail.com" style="color: #FF5722; text-decoration: none;">adityadrasal007@gmail.com</a> &nbsp;|&nbsp; Response SLA: &lt; 12 Hours &nbsp;|&nbsp; 📍 Pune, India (Global Ready)
+      </p>
     </td>
   </tr>
 </table>
@@ -572,7 +625,7 @@
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:adityadrasal007@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityadrasal007@gmail.com&su=Inquiry%20-%20Aditya%20Rasal" target="_blank">
   <img src="https://img.shields.io/badge/Send_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;&nbsp;
