@@ -389,25 +389,25 @@
 
 <table width="100%">
   <tr align="center">
-    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 8px; text-align: center;">
-      <h2 style="margin: 0; color: #FF5722;">👥 150+</h2>
-      <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Active Workforce</b></p>
+    <td width="25%" align="center" style="padding: 16px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #FF5722; border-radius: 8px; text-align: center;">
+      <h2 style="margin: 0; color: #FFFFFF; font-size: 20px;">150+</h2>
+      <p style="margin: 4px 0 0 0; color: #FF5722; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">ACTIVE WORKFORCE</p>
       <sub style="color: #9CA3AF;">Tiered Squads &amp; Direct Leadership</sub>
     </td>
-    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #10B981; border-radius: 8px; text-align: center;">
-      <h2 style="margin: 0; color: #10B981;">💰 100%</h2>
-      <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Fiscal Discipline</b></p>
-      <sub style="color: #9CA3AF;">Zero Budget Overruns Across 3 Years</sub>
+    <td width="25%" align="center" style="padding: 16px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #FF5722; border-radius: 8px; text-align: center;">
+      <h2 style="margin: 0; color: #FFFFFF; font-size: 20px;">100%</h2>
+      <p style="margin: 4px 0 0 0; color: #FF5722; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">FISCAL DISCIPLINE</p>
+      <sub style="color: #9CA3AF;">Zero Budget Overruns (3 Years)</sub>
     </td>
-    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 8px; text-align: center;">
-      <h2 style="margin: 0; color: #00F2FE;">🎪 10,000+</h2>
-      <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Scale Footfall</b></p>
+    <td width="25%" align="center" style="padding: 16px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #FF5722; border-radius: 8px; text-align: center;">
+      <h2 style="margin: 0; color: #FFFFFF; font-size: 20px;">10,000+</h2>
+      <p style="margin: 4px 0 0 0; color: #FF5722; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">SCALE FOOTFALL</p>
       <sub style="color: #9CA3AF;">Multi-Venue Crowd Kinetics</sub>
     </td>
-    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #8B5CF6; border-radius: 8px; text-align: center;">
-      <h2 style="margin: 0; color: #8B5CF6;">⏱️ 100%</h2>
-      <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>On-Time Delivery</b></p>
-      <sub style="color: #9CA3AF;">Strict Sprint Sign-Offs &amp; Zero Delay</sub>
+    <td width="25%" align="center" style="padding: 16px 12px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 2px solid #FF5722; border-radius: 8px; text-align: center;">
+      <h2 style="margin: 0; color: #FFFFFF; font-size: 20px;">100%</h2>
+      <p style="margin: 4px 0 0 0; color: #FF5722; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">ON-TIME DELIVERY</p>
+      <sub style="color: #9CA3AF;">Strict Sprint Sign-Offs</sub>
     </td>
   </tr>
 </table>
@@ -419,16 +419,16 @@
 <!-- ─── DUAL MISSION DECKS ─── -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-left: 3px solid #FF5722; border-radius: 10px;">
+<td width="50%" valign="top" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-left: 3px solid #FF5722; border-radius: 8px;">
 
 ### 🏛️ MISSION 01: Cultural Governance &amp; Innovation
 **Cultural President — Student Council**  
 *Pimpri-Chinchwad University (PCU) · Aug 2026 – Present*
 
 <p>
-  <img src="https://img.shields.io/badge/Workforce-150+_Volunteers-FF5722?style=flat-square" />
-  <img src="https://img.shields.io/badge/Budget-100%25_Under-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agile-Jira_Sprints-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workforce-150+_Volunteers-1f2937?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiscal-100%25_Under_Budget-1f2937?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-Jira_Sprints-1f2937?style=flat-square&logoColor=white" />
 </p>
 
 - 👥 **150+ Direct Volunteers:** Mobilized across IDEATHON 2.0, Pitch Fest, and technical incubation pipelines.
@@ -436,19 +436,19 @@
 - 💰 **100% Under Budget:** Audited multi-tier vendor procurement, delivering all operations with zero overruns.
 
 </td>
-<td width="50%" valign="top" style="padding: 18px; background-color: #0c1017; border-left: 3px solid #8B5CF6; border-radius: 10px;">
+<td width="50%" valign="top" style="padding: 20px; background-color: #0c1017; border: 1px solid #1f2937; border-left: 3px solid #FF5722; border-radius: 8px;">
 
 ### 🎪 MISSION 02: Flagship Scale Operations (3 Editions)
 **Event Lead — Anantam Cultural Festival**  
 *Pimpri-Chinchwad University (PCU) · Jan 2024 – Jan 2026 (3 Consecutive Years)*
 
 <p>
-  <img src="https://img.shields.io/badge/Footfall-6,000+_Attendees-00F2FE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Crew-200+_Members-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Record-100%25_On--Time-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scale-10,000+_Attendees-1f2937?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crew-200+_Members-1f2937?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Track_Record-100%25_On--Time-1f2937?style=flat-square&logoColor=white" />
 </p>
 
-- 🎪 **6,000+ Attendee Scale:** Directed operations for PCU's premier 2-day festival across 3 consecutive annual cycles.
+- 🎪 **10,000+ Attendee Scale:** Directed operations for PCU's premier festival across 3 consecutive annual cycles.
 - 🛡️ **Zero-Incident Safety:** Orchestrated perimeter security, crowd kinetics, and emergency medical protocols.
 - ⏱️ **100% On-Time Record:** Managed 200+ crew members, multi-stage AV infrastructure, and 15+ commercial vendors.
 
