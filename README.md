@@ -385,30 +385,34 @@
 <br/>
 
 <!-- ─── OPERATIONAL KPI SCORECARD ─── -->
+<div align="center">
+
 <table width="100%">
   <tr align="center">
-    <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #FF5722; border-radius: 8px;">
+    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #FF5722; border-radius: 8px; text-align: center;">
       <h2 style="margin: 0; color: #FF5722;">👥 150+</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Active Workforce</b></p>
       <sub style="color: #9CA3AF;">Tiered Squads &amp; Direct Leadership</sub>
     </td>
-    <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #10B981; border-radius: 8px;">
+    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #10B981; border-radius: 8px; text-align: center;">
       <h2 style="margin: 0; color: #10B981;">💰 100%</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Fiscal Discipline</b></p>
       <sub style="color: #9CA3AF;">Zero Budget Overruns Across 3 Years</sub>
     </td>
-    <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #00F2FE; border-radius: 8px;">
-      <h2 style="margin: 0; color: #00F2FE;">🎪 6,000+</h2>
+    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #00F2FE; border-radius: 8px; text-align: center;">
+      <h2 style="margin: 0; color: #00F2FE;">🎪 10,000+</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>Scale Footfall</b></p>
       <sub style="color: #9CA3AF;">Multi-Venue Crowd Kinetics</sub>
     </td>
-    <td width="25%" style="padding: 14px; background-color: #0c1017; border-top: 3px solid #8B5CF6; border-radius: 8px;">
+    <td width="25%" align="center" style="padding: 14px; background-color: #0c1017; border: 1px solid #1f2937; border-top: 3px solid #8B5CF6; border-radius: 8px; text-align: center;">
       <h2 style="margin: 0; color: #8B5CF6;">⏱️ 100%</h2>
       <p style="margin: 4px 0 0 0; color: #E5E7EB; font-size: 13px;"><b>On-Time Delivery</b></p>
       <sub style="color: #9CA3AF;">Strict Sprint Sign-Offs &amp; Zero Delay</sub>
     </td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 
